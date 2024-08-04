@@ -1,0 +1,3 @@
+colocar sistema de adc id|credito
+colocar sistema para verificar se o saldo esta baixo
+colocar sistema de atulizar saldo
